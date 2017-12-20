@@ -1,15 +1,5 @@
- github: [metadata]
- encoding: UTF-8
- kramdown:
-   input: GFM
-   hard_wrap: false
- future: true
- jailed: false
- theme: jekyll-theme-primer
- gfm_quirks: paragraph_end
-
-title: Trainsn.GitHub.io
-description: trainsn's blog
+title: trainsn's blog
+description: Loving is difficult 
 google_analytics: 
 show_downloads: true
 theme: jekyll-theme-minimal
