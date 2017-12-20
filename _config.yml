@@ -7,3 +7,9 @@
  jailed: false
  theme: jekyll-theme-primer
  gfm_quirks: paragraph_end
+
+title: Trainsn.GitHub.io
+description: trainsn's blog
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
