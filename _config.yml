@@ -3,3 +3,12 @@ description: The world will little note, nor long remember what we say here, but
 google_analytics: 
 show_downloads: false
 theme: jekyll-theme-tactile
+
+ github: [metadata]
+ encoding: UTF-8
+ kramdown:
+   input: GFM
+   hard_wrap: false
+ future: true
+ jailed: false
+ gfm_quirks: paragraph_end
