@@ -41,5 +41,7 @@ NineChapter Algorithm is a company aimed at helping Chinese get better jobs in N
 
 ### HONORS AND AWARDS
 Zhejiang University Academic Scholarship, 2014-2015, 2015-2016 
+
 Third Prize in Zhejiang University Student Programming Competition, 2016  
+
 First Prize in China NOIP (National Olympiad in Informatics in Provinces),  2012  
