@@ -24,7 +24,7 @@ _Software Engineer(Sept.2014-Jun.2017)_
 My work mainly includes system backend development. In the three years, I participate in the development of the TV station's Recruiting System, Interview System, Equipment Access System, Course System and so on.  In the third year, I lead the integration of the Workflow system as the head of the group. At the same time, I am responsible for the training of new members.
 
 #### NineChapter Algorithm  
-_Teaching Assistant_  
+_Teaching Assistant(Jul.2017-)_  
 NineChapter Algorithm is a company aimed at helping Chinese get better jobs in North America. I am the teaching assistant of Algorithm class and Artificial Intelligence training camp. I am responsible for communicating and answering questions for students, and reviewing the course project for each one. 
 
 ## HONORS AND AWARDS
