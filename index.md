@@ -7,7 +7,7 @@ I am working in State Key Lab of CAD&CG now, supervised by [Dr. Yubo Tao](http:/
 
 ## Projects
 #### Shooting Game - An OpenGL-based Videogame Project
-_Zhejiang University&nbsp;&nbsp;&nbsp;Apr.2016-Jun.2016&nbsp;&nbsp;&nbsp;Professor: Hongzhi Wu_
+_Zhejiang University&nbsp;&nbsp;&nbsp;Apr.2016-Jun.2016&nbsp;&nbsp;&nbsp;Professor: Hongzhi Wu_  
 We structure gameplay in the first person shooter genre. The user can select the class in which he or she would like to play as, and then complete a level by defeating computer-controlled players of the opposing class in the battle. The game includes several challenging computer graphics elements, including collision detection between the player and enemy characters, and several very complex objects with many thousands of polygons, and animation sequences for enemy characters.
 
 #### Android based Visualization of Air Pollution  
