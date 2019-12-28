@@ -1,0 +1,29 @@
+<nav id="navbar" class="navbar fixed-top navbar-expand-md navbar-light bg-light">
+  <a class="navbar-brand" href="{%- link index.html -%}#home">Wenbin He</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item px-2">
+        <a class="nav-link" href="{%- link index.html -%}#about" data-target="#about">About</a>
+      </li>
+      <li class="nav-item px-2">
+        <a class="nav-link" href="{%- link index.html -%}#experience" data-target="#experience">Experience</a>
+      </li>
+<!--       <li class="nav-item px-2">
+        <a class="nav-link" href="{%- link index.html -%}#software" data-target="#software">Software</a>
+      </li> -->
+      <li class="nav-item px-2">
+        <a class="nav-link" href="{%- link index.html -%}#publications" data-target="#publications">Publications</a>
+      </li>
+<!--       <li class="nav-item">
+        <a class="nav-link" href="{%- link blog.html -%}">Blog</a>
+      </li> -->
+    </ul>
+    <form class="form-inline">
+      <a class="btn btn-sm btn-outline-success ml-sm-4" href="{{ "/assets/pdf/resume.pdf" | relative_url }}" target="_blank" role="button">Resume</a>
+    </form>
+  </div>
+</nav>

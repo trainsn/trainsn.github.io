@@ -1,0 +1,43 @@
+---
+---
+
+@import "variables";
+@import "bootstrap/bootstrap";
+@import "bootswatch";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin-top: 54px;
+  position: relative;
+  overflow-y: auto;
+}
+
+.scroll_section {
+  min-height: 400px;
+}
+
+span.anchor {
+  margin-top: -54px;
+  display: block;
+  height: 54px;
+  visibility: hidden;
+  position: relative;
+}
+
+.scroll_heading {
+  padding-bottom: 20px;
+}
+
+.scroll_heading:after {
+  display: inline-block;
+  content: "";
+  position: relative;
+  left: 10px;
+  vertical-align: middle;
+  height: 1px;
+  width: 20%;
+  background-color: #ccc;
+}

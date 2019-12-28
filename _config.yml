@@ -1,5 +1,17 @@
-title: Neng Shi
-description: shineng@zju.edu.cn
-google_analytics: 
-show_downloads: false
-theme: jekyll-theme-time-machine
+title: Wenbin He
+description: Ph.D. Candidate at The Ohio State University
+author: Wenbin He
+email: hewenbin.495@gmail.com
+url: https://hewenbin.github.io
+baseurl: ""
+
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-minifier
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+google_analytics: UA-127130522-1
